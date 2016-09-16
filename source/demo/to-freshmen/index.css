@@ -1,0 +1,48 @@
+/* global style */
+body {
+  background: lightgray;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+  text-decoration: none;
+  border-bottom: 1px solid gray;
+  color: gray;
+}
+
+a:hover {
+  color: black;
+}
+
+
+/* 署名 */
+#by {
+  font-family: 'Courier New, Courier, monospace';
+  position: fixed;
+  bottom: 0;
+}
+
+.step {
+  font-size: 2em;
+}
+
+#title{
+  font-size: 10em;
+  font-family: Courier New, Courier, monospace;
+}
+
+#title b {
+  color: darkred;
+}
+
+#want {
+  font-size: 4em;
+}
+#want p {
+  width: 9em;
+}
+
+#what-if div p{
+  font-size: 3em;
+  width: 9em;
+}
