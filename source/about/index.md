@@ -71,9 +71,9 @@ Zhejiang Tongxiang High School.
     + Single Spider for Ningbo weather and air.
     + Single Spider for static web novel.
 + Work as **Front-End Developer**
-  + The back stage of Shutu online shop. 
+  + ~~The back stage of Shutu online shop.~~ 
 + Work as **Technical Adviser**
-  + Community management tools of [DankeStudio](https://github.com/DankeStudio), Jul. 2016 - Present.
+  + [ZJU Welcome](http://zju-welcome.com/) &copy; [DankeStudio](https://github.com/DankeStudio), Jul. 2016 - Present.
 + Work as **Class Monitor**
   + Software Engineering 42, XJTU, Sep. 2014 - Feb. 2016.
 
