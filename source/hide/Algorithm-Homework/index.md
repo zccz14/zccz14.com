@@ -11,4 +11,5 @@ comments: false
 # Content
 
 + [Week 1: 计算理论](Week1.html)
-+ [Week 2: 二分搜索](Week2.html)
++ [Week 2: 分治算法: 二分搜索](Week2.html)
++ [Week 3: 分治算法](Week3.html)

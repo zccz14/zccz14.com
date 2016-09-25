@@ -10,4 +10,4 @@ comments: false
 
 # Content
 
-+ [Week 2](Week2.html)
++ [Week 2: Components Interconnection](Week2.html)

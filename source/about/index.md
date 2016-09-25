@@ -6,7 +6,7 @@ comments: false
 
 # Zheng Chen
 
-> An experience web engineer and theorist.
+> An experienced web engineer and theorist.
 
 Email: zccz14@outlook.com
 
@@ -14,7 +14,7 @@ Personal Website: [zccz14.com](//zccz14.com)
 
 Organization: [FunctionX](https://function-x.org)
 
-Nationality: China
+Nationality: Chinese
 
 Hometown: Lishui, Zhejiang, China
 
@@ -24,7 +24,7 @@ Location: Xian, Shaanxi, China
 
 + Rich knowledge and experience in **web development**.
 + Proficient in **ECMAScript(JavaScript)**, and have basic common sense in **C/C++, Java, PHP, MQL, Markdown, LaTeX, HTML, CSS, Go, SQL, Python** Languages.
-+ Good fundamental of **mathematical logic**.
++ Good foundation of **mathematical logic**.
 
 ## Education
 
