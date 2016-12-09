@@ -48,14 +48,14 @@ Zhejiang Tongxiang High School.
 
 + Gold Award, 2015 ACM/ICPC Provincial of Shaanxi.
 + Fuji Xerox Scholarship, 2014-2015.
-+ Excellent Volunteer, Study Guidance Center of Chungying College, 2015-2016.
++ Outstanding Student Leader, 2014-2015.
++ Outstanding Volunteer, Study Guidance Center of Chungying College, 2015-2016.
 + Gold Award, 2016 CCCC/GPLT Final.
 
 ## Experience
 
 + Play as **Contestant** for ACM/ICPC, Jun. 2015 - Present.
 + Take a study of **Quantitative Trade**, Jun. 2015 - Present.
-
 
 + Work as **Independent Developer**
   + Online Judge
@@ -74,6 +74,10 @@ Zhejiang Tongxiang High School.
   + ~~The back stage of Shutu online shop.~~ 
 + Work as **Technical Adviser**
   + [ZJU Welcome](http://zju-welcome.com/) &copy; [DankeStudio](https://github.com/DankeStudio), Jul. 2016 - Present.
++ Work as **Maintainer**
+  + Organization Website
+    + [CyStudy](https://cystudy.github.io/) Nov. 2015 - Present.
+    + [XJTU ACM Team Board](https://xjtuacm.github.io/) Mar. 2016 - Present.
 + Work as **Class Monitor**
   + Software Engineering 42, XJTU, Sep. 2014 - Feb. 2016.
 
