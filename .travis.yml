@@ -21,6 +21,6 @@ after_success: |
     git commit -m "Travis Deploy"
     # Make sure to make the output quiet, or else the API token will leak!
     # This works because the API key can replace your password.
-    git push -f -q https://zccz14:$GITHUB_API_KEY@github.com/zccz14/zccz14.github.io master &2>/dev/null
+    git push -f https://$GITHUB_API_KEY@github.com/zccz14/zccz14.github.io master
     cd "$TRAVIS_BUILD_DIR"
   fi
