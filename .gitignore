@@ -9,3 +9,6 @@ public/
 source/demo/xjtu-index
 *~
 *.swp
+
+*.exe
+*.obj
