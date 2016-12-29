@@ -12,7 +12,7 @@ tags:
 
 多配置了几个 Hexo 博客以后，感觉越来越熟练了
 
-{% asset_img experience.jpg "Why are you so experienced" %}
+![](http://zccz14.com/images/5152595c793e1bbd5de681fe339ce425.jpg)
 
 <!-- more -->
 
